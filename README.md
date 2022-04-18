@@ -182,4 +182,3 @@ Item|Points
 `addCity`|	10
 `addRoute`|	10
 `updateRoute`|	10
-Extra Credit|	10 points
