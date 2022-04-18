@@ -1,4 +1,4 @@
-# CS 1501 – Algorithm Implementation – Assignment #3
+# Algorithm Implementation
 
 _(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
 
