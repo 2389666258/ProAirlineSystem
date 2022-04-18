@@ -1,7 +1,7 @@
 # Algorithm Implementation
 
-**Changing the package statement ~**
-**Changing the package statement ~.**
+**Changing the package statement ~ **
+**Changing the package statement ~ **
 
 _(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
 
