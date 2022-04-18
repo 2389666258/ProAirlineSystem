@@ -1,5 +1,7 @@
 # Algorithm Implementation
 
+Changing the package statement ~
+
 _(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
 
 Due: Monday April 18th @ 11:59pm on Gradescope
