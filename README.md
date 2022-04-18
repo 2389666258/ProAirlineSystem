@@ -1,6 +1,7 @@
 # Algorithm Implementation
 
 **Changing the package statement ~**
+**Feel free to use as much code as you need from Lab 8 and Lab 9.**
 
 _(Assignment adapted from Dr. John Ramirez’s CS 1501 class.)_
 
